@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Anush Kumar Mall 👋</h1>
 
-I'm passionate about coding and currently focusing on Data Structures and Algorithms (DSA) using Java. I love solving problems and continually improving my skills.
+I'm a dedicated coder with a keen interest in Data Structures and Algorithms (DSA) using Java. My passion lies in tackling challenging problems and continuously enhancing my skills.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning DSA in Java.
-- 🤝 I’m looking to collaborate on interesting open-source projects.
-- 💬 Ask me about Java, DSA, and programming tips.
+- 🌟 Currently diving deep into DSA with Java to build a strong foundation.
+- 🤝 Eager to collaborate on innovative open-source projects and contribute to the tech community.
+- 💬 Feel free to reach out if you want to discuss Java, DSA, or any programming tips.
+- 🚀 Always looking for new challenges to improve and grow as a software developer.
 
 ## 🛠️ Skills
 - Java
@@ -21,6 +22,7 @@ I'm passionate about coding and currently focusing on Data Structures and Algori
     <img src="https://img.icons8.com/ios-filled/50/833AB4/instagram-new.png" alt="Instagram"/>
   </a>
 </p>
+
 
 
 

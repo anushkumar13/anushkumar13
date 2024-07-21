@@ -13,5 +13,4 @@ I'm passionate about coding and currently focusing on Data Structures and Algori
 - Problem Solving
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/anush-kumar-mall-433547300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram(https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.png)](https://www.instagram.com/anushkumar13?igsh=NWc5a3VwbHN3bzZ0)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/anush-kumar-mall-433547300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![Instagram(https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.png)](https://www.instagram.com/anushkumar13?igsh=NWc5a3VwbHN3bzZ0)

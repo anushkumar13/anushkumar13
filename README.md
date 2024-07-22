@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anush Kumar Mall 👋</h1>
+<h1 align="center">Hi, I'm Anush Kumar 👋</h1>
 
 I'm a dedicated coder with a keen interest in Data Structures and Algorithms (DSA) using Java. My passion lies in tackling challenging problems and continuously enhancing my skills.
 

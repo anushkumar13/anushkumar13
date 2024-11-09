@@ -12,6 +12,7 @@ I'm a dedicated coder with a keen interest in Data Structures and Algorithms (DS
 - Java
 - Data Structures and Algorithms
 - Problem Solving
+- Fronted Development
 
 ## 🔗 Connect with Me
 <p align="center">

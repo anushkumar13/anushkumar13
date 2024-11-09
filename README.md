@@ -2,11 +2,11 @@
 
 I'm a dedicated coder with a keen interest in Data Structures and Algorithms (DSA) using Java. My passion lies in tackling challenging problems and continuously enhancing my skills.
 
-## 🚀 About Me
+## About Me
 - 🌟 Currently diving deep into DSA with Java to build a strong foundation.
 - 🤝 Eager to collaborate on innovative open-source projects and contribute to the tech community.
 - 💬 Feel free to reach out if you want to discuss Java, DSA, or any programming tips.
-- 🚀 Always looking for new challenges to improve and grow as a software developer.
+- 🌟 Always looking for new challenges to improve and grow as a software developer.
 
 ## 🛠️ Skills
 - Java

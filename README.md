@@ -19,16 +19,7 @@ I'm a passionate and dedicated software developer with a strong focus on Data St
 - Tools & Practices: Git, GitHub, Collaboration
 
 ## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/anush-kumar-mall-433547300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/anushkumar13?igsh=NWc5a3VwbHN3bzZ0">
-    <img src="https://img.icons8.com/ios-filled/50/833AB4/instagram-new.png" alt="Instagram"/>
-  </a>
-</p>
-
-
+<p align="center"> <a href="https://www.linkedin.com/in/anush-kumar-mall-433547300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" title="LinkedIn"/> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/anushkumar13?igsh=NWc5a3VwbHN3bzZ0"> <img src="https://img.icons8.com/ios-filled/50/833AB4/instagram-new.png" alt="Instagram" title="Instagram"/> </a> &nbsp;&nbsp; <a href="mailto:mallanushkumar@gmail.com"> <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail-new.png" alt="Email" title="Email"/> </a> </p>
 
 
 

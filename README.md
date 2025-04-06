@@ -19,7 +19,7 @@ I'm a passionate and dedicated software developer with a strong focus on Data St
 - Tools & Practices: Git, GitHub, Collaboration
 
 ## 🔗 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/anush-kumar-mall-433547300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> LinkedIn </a> &nbsp;|&nbsp; <a href="https://www.instagram.com/anushkumar13?igsh=NWc5a3VwbHN3bzZ0"> Instagram </a> </p> <p align="center"> 📧 Email: mallanushkumar@gmail.com </p>
+<p align="center"> <a href="https://www.linkedin.com/in/anush-kumar-mall-433547300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> LinkedIn </a> &nbsp;|&nbsp; <a href="https://www.instagram.com/anushkumar13?igsh=NWc5a3VwbHN3bzZ0"> Instagram </a> </p> <p align="center"> 📧 Email: kumarmallanush@gmail.com </p>
 
 
 
